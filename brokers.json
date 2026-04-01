@@ -179,10 +179,6 @@
     "status": "Regulado",
     "ticker_news": ""
   },
-  Now I have enough data to compile all 7 broker profiles. Let me produce the JSON:
-
-```json
-[
   {
     "name": "Pepperstone",
     "abbr": "PPS",
